@@ -1,0 +1,5480 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7034468,
+                    40.4185861
+                ]
+            },
+            "properties": {
+                "address": "Plaza del Carmen",
+                "name": "Plaza del Carmen",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7049889,
+                    40.4215407
+                ]
+            },
+            "properties": {
+                "address": "P. Sta Mª Soledad Torres Acosta c/v c/Luna)",
+                "name": "Luna-Tudescos",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703448,
+                    40.414267
+                ]
+            },
+            "properties": {
+                "address": "Plaza Jacinto Benavente, s/n",
+                "name": "Jacinto Benavente",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6884056,
+                    40.4197583
+                ]
+            },
+            "properties": {
+                "address": "C/ Serrano entre Jorge Juan y Pza. Independencia",
+                "name": "Serrano III",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6992503,
+                    40.418054
+                ]
+            },
+            "properties": {
+                "address": "C/ Sevilla y C/ Alcalá",
+                "name": "Sevilla",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_libre_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6958823,
+                    40.4156855
+                ]
+            },
+            "properties": {
+                "address": "Plaza de las Cortes",
+                "name": "Cortes",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.690707,
+                    40.418161
+                ]
+            },
+            "properties": {
+                "address": "C/ Montalbán (entre C/ Alfonso XI y Pº Prado)",
+                "name": "Montalbán",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6963131,
+                    40.4200305
+                ]
+            },
+            "properties": {
+                "address": "Plaza del Rey ( y C/ Barquillo C/V C/ Infantas)",
+                "name": "Plaza del Rey",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.699282,
+                    40.420653
+                ]
+            },
+            "properties": {
+                "address": "Plaza Pedro Zerolo, s/n",
+                "name": "Pedro Zerolo",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.700645,
+                    40.414533
+                ]
+            },
+            "properties": {
+                "address": "PZA. DE SANTA ANA",
+                "name": "PLAZA DE SANTA ANA",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.702918,
+                    40.421107
+                ]
+            },
+            "properties": {
+                "address": "Calle Barco",
+                "name": "BARCO 1",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.696436,
+                    40.422704
+                ]
+            },
+            "properties": {
+                "address": "Calle Gravina",
+                "name": "GRAVINA 21",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7055168,
+                    40.4197702
+                ]
+            },
+            "properties": {
+                "address": "Plaza de Callao",
+                "name": "El Corte Inglés Callao",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7048936,
+                    40.4182355
+                ]
+            },
+            "properties": {
+                "address": "Calle Preciados",
+                "name": "El Corte Inglés Preciados",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.697468,
+                    40.421693
+                ]
+            },
+            "properties": {
+                "address": "LIBERTAD",
+                "name": "MERCADO SAN ANTON",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.694675,
+                    40.42305
+                ]
+            },
+            "properties": {
+                "address": "PIAMONTE",
+                "name": "GARAJE PIAMONTE",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.705773,
+                    40.421059
+                ]
+            },
+            "properties": {
+                "address": "TUDESCOS",
+                "name": "Luna - Tudescos",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.695354,
+                    40.41562
+                ]
+            },
+            "properties": {
+                "address": "Plaza de las Cortes",
+                "name": "Plaza de las Cortes",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.699137,
+                    40.417901
+                ]
+            },
+            "properties": {
+                "address": "Calle de Alcalá, 17",
+                "name": "Hub de Movilidad Canalejas 360",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7066676,
+                    40.4152721
+                ]
+            },
+            "properties": {
+                "address": "Plaza Mayor",
+                "name": "Plaza Mayor",
+                "icon": "https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.67396272988162,
+                    40.4967702043199
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.67213258946972,
+                    40.4916772857987
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.67302535507421,
+                    40.4900865264036
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.671871161985595,
+                    40.48893704030404
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.672087334920676,
+                    40.4890574067207
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6722933447168,
+                    40.489527721151795
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.67192311204749,
+                    40.5061918769338
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.672715424593012,
+                    40.50547709711297
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.673709406826649,
+                    40.50370556148789
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.673249904679442,
+                    40.50345147942522
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.67353202606525,
+                    40.4968853226277
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.67509192413139,
+                    40.4996780113621
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.67579560793398,
+                    40.5015928052797
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6758443689571,
+                    40.5029258402936
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.67697298119668,
+                    40.5048381441241
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.674404182312121,
+                    40.499422260166746
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.67241371644728,
+                    40.5055674131902
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.670718166083676,
+                    40.5000968240792
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.670414346738631,
+                    40.49991840462094
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.673566585935727,
+                    40.49760732671314
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.673488900422067,
+                    40.49728796064559
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.673102886453312,
+                    40.50571808665041
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.673670239995087,
+                    40.48727794375653
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.671780055904853,
+                    40.50181137868635
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.671293553123865,
+                    40.50158447227343
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.675456413691393,
+                    40.501636834522905
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.67641821136332,
+                    40.5043188702792
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.674572871733496,
+                    40.500542893139205
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.67416117335407,
+                    40.5005753187246
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66733397983689,
+                    40.4970563518681
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66736154608749,
+                    40.4967859251314
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66965419396059,
+                    40.497628533741
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.67001955550643,
+                    40.498842624505
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.669733989538615,
+                    40.48882780193701
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.667595955031238,
+                    40.48911492382936
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.665157081016812,
+                    40.48925959137354
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.662073366973157,
+                    40.48948897752758
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6674330312665,
+                    40.494393642212195
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.669996731225401,
+                    40.4940184759183
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66494601120217,
+                    40.494020569856794
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66462409444356,
+                    40.4942476417472
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6619911083271,
+                    40.4921501325296
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66172448671512,
+                    40.4924129159576
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.662982588977919,
+                    40.503465689408515
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.663404159968059,
+                    40.503129942856226
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.665394377137454,
+                    40.50508247394161
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.665757204682292,
+                    40.50477408339909
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.662654875935891,
+                    40.48573791636604
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66726552894397,
+                    40.5030747068066
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66700231045058,
+                    40.5029005498338
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66915433175838,
+                    40.5043070344867
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66936858986686,
+                    40.5034859843842
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6690665361019,
+                    40.5037850248302
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.667053634822,
+                    40.5055173443054
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66325786133646,
+                    40.5059986093654
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66353161663113,
+                    40.5062312723226
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65275087595024,
+                    40.49211397414377
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65160319900925,
+                    40.48943125989053
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66490054642598,
+                    40.5057234228628
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66572857358462,
+                    40.5043763354974
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65098222921288,
+                    40.489277095855236
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.652278608758994,
+                    40.49197249219866
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.651060328456023,
+                    40.49572257646981
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.651310920177818,
+                    40.49543738455445
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.650820855984049,
+                    40.48707530765527
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.658284357623207,
+                    40.489731302643705
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.650826444296365,
+                    40.486737439450486
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.650743535616921,
+                    40.4870487153067
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65464382494609,
+                    40.488292490001854
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.657527398050833,
+                    40.48796083567124
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.660723951919215,
+                    40.487361558911616
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.662933658512088,
+                    40.48769126870146
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66516984445763,
+                    40.488011775071826
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.667305939889036,
+                    40.48835083299347
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.669421050598662,
+                    40.48865393680794
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.653420898109504,
+                    40.49230388760149
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65365640227913,
+                    40.49183409168808
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.656014805604165,
+                    40.49394236531796
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.654861706791134,
+                    40.49686779848849
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.655974252410045,
+                    40.493375030028204
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65807454668805,
+                    40.5002895086891
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65840750725333,
+                    40.5000173477443
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.665494060899226,
+                    40.48805946128534
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.668063143901716,
+                    40.4880356565838
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.665218941008644,
+                    40.48558807807924
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.660881189850958,
+                    40.4856849913975
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.659917542186902,
+                    40.48623102673076
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.662299777060761,
+                    40.484046259739586
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65758363860226,
+                    40.499397402697355
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66388897585467,
+                    40.502550590132586
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66444031913296,
+                    40.5021735551798
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.666890477163998,
+                    40.50140721858015
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.667055676035349,
+                    40.50118104276651
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.654851472439876,
+                    40.48799401946775
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.658732411834169,
+                    40.48999902350903
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.659130142514151,
+                    40.49066342394952
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65805672174061,
+                    40.4940374127062
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65823820589689,
+                    40.4934372867992
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.654596960628605,
+                    40.49797289373147
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.657491799369767,
+                    40.49981233683251
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.653663981326792,
+                    40.49695114315575
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.641830524341509,
+                    40.484706580374116
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.641545635728036,
+                    40.48468113224634
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.64759614515812,
+                    40.48571050999953
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.647617499046544,
+                    40.48605273193986
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.646572886889817,
+                    40.48597298468193
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.675822079542459,
+                    40.47156274035095
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.673395844046309,
+                    40.47076606665548
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.677488833862035,
+                    40.47403497793994
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.676424775241595,
+                    40.47677993280824
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.675770840335038,
+                    40.479400862415964
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.675496888430793,
+                    40.47914120046768
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.675255029783672,
+                    40.480908372367566
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.674947639026645,
+                    40.48054980538614
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.672126225954704,
+                    40.47949414936156
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.672592159964286,
+                    40.479707659273494
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.670839760395697,
+                    40.47777638905936
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.670905861814321,
+                    40.47737961048689
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66894956404827,
+                    40.47680984983647
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.668512459307348,
+                    40.476749311481164
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.668508516310203,
+                    40.479141221137624
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66842342938948,
+                    40.4784795517047
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.667251000269301,
+                    40.480414237774276
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.667261489074351,
+                    40.48005832234147
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.664935901168878,
+                    40.48253565916866
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.664556330968792,
+                    40.482330631791996
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.675904374208371,
+                    40.47506675913568
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.675691821838241,
+                    40.473058994062285
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.645084082216994,
+                    40.470909238957226
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.646682183468645,
+                    40.47160753202467
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.649419888858174,
+                    40.47288950675995
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.666958692089226,
+                    40.47113665819751
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66740523768121,
+                    40.470962914120506
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.667521798457379,
+                    40.473205483080456
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.667981222731279,
+                    40.47313977054033
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.667719849624215,
+                    40.47541154514525
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.667912720647902,
+                    40.475752774485514
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.665826031592453,
+                    40.47470173148495
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.665899122074142,
+                    40.4749355450438
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66292732802842,
+                    40.47384449139941
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.663164315627751,
+                    40.47395124228295
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.660784763282559,
+                    40.475505385095566
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.658816493707973,
+                    40.47690398638329
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65936892493049,
+                    40.47910804496268
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66114084919349,
+                    40.47813397863255
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.662385257422437,
+                    40.47630704969194
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66126762658744,
+                    40.47542154746568
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.668459928015933,
+                    40.47501988804678
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.673885315929818,
+                    40.47134880386209
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66342889638669,
+                    40.47326504273537
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.663187077750817,
+                    40.47349165300395
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.658987352025453,
+                    40.47103365126046
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.658868374836816,
+                    40.471345138939114
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.654489454419465,
+                    40.4716267295489
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.654642681227115,
+                    40.471765502916924
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.651821115354798,
+                    40.472339978869186
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.651989756732329,
+                    40.47251020048288
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.649717870344658,
+                    40.4727481955975
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.647997469069986,
+                    40.473447024834954
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.64794993270951,
+                    40.473640984404824
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.645199337793629,
+                    40.474133820594105
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.645413912703875,
+                    40.47436685883875
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.646761931261122,
+                    40.47592690337253
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.646210940139777,
+                    40.47763718480132
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.649429010759834,
+                    40.478776836237124
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.648608571251989,
+                    40.476808464866956
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.649543856555235,
+                    40.472019442546134
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.649638376140954,
+                    40.47214954286024
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.647505811717527,
+                    40.475994817963894
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.646837203058744,
+                    40.47639495085241
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.646662791487723,
+                    40.477891418594744
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.647948029755203,
+                    40.47904639402665
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.649223084523039,
+                    40.47791312753654
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.646923628560629,
+                    40.47556564010591
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.644863989212697,
+                    40.47349154495615
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.64319656622419,
+                    40.47318099930831
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.639320077359523,
+                    40.47242769233027
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.639435407371837,
+                    40.47261624466171
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.637496282021465,
+                    40.47233864820034
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.637584994108395,
+                    40.47244176336167
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.635116543075236,
+                    40.47334271568001
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.633432489782218,
+                    40.47231590413925
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.636671597313362,
+                    40.47417201363706
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.636988058241532,
+                    40.47348558884154
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.638991025283003,
+                    40.47505112896309
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.63883926385093,
+                    40.47471412871915
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.641544784703743,
+                    40.4743973691108
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.644570050814372,
+                    40.47390309120218
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.636267077828752,
+                    40.477678738867844
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.63676949834587,
+                    40.477748049056906
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.648227192346745,
+                    40.47230159557224
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.631181489617898,
+                    40.48011197405532
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.628595416038453,
+                    40.47693685448077
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.628176747163196,
+                    40.479367051283724
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.63317246148798,
+                    40.4823173170335
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.634143499277752,
+                    40.483951639589364
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.635990530497474,
+                    40.48338295194219
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.635003916567411,
+                    40.48170368527218
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.634117493115955,
+                    40.480244581372204
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.662386079423356,
+                    40.4821718973901
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.662374370153584,
+                    40.482406197991445
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.659335686361303,
+                    40.48136498602747
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.659546602429106,
+                    40.481593513937284
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.657243994378145,
+                    40.48018318730104
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.656989437609199,
+                    40.48035580279414
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.675979976101173,
+                    40.47205280898402
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.675964411851482,
+                    40.48105738559151
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.642925666917073,
+                    40.476939257421336
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.648314910800452,
+                    40.47671101048577
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.675363491477014,
+                    40.47760144179333
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.673877389547947,
+                    40.47173623693365
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.62865840562096,
+                    40.471432009500425
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.628862193585767,
+                    40.47134531782904
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.631608319082579,
+                    40.47277631864647
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.631490241030357,
+                    40.47264633200755
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.633337873143192,
+                    40.47397858348468
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.633482511383943,
+                    40.47387418874591
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.635775500449451,
+                    40.47559135070153
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.637209713757795,
+                    40.476930312932474
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.63731296484873,
+                    40.47701082570129
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.631117851989041,
+                    40.481900606532456
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.626540971989013,
+                    40.481677709133955
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.64710947840211,
+                    40.47895198452692
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.63095540027438,
+                    40.4786447395314
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.630735242664024,
+                    40.47982161322512
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.64944599614344,
+                    40.473074044897906
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.669007965049495,
+                    40.47779149242659
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.667055648632712,
+                    40.479748698364446
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.666927482161445,
+                    40.47991159847691
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.665333491415524,
+                    40.47858743880242
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.662875206765949,
+                    40.47694388431857
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66461085198783,
+                    40.47828528341308
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.662598571235472,
+                    40.4765175405367
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.632875954221927,
+                    40.4800306533258
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.63163399638088,
+                    40.4792986968386
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.657125183495916,
+                    40.47105324328128
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65710920081018,
+                    40.471229009559025
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.655949963182682,
+                    40.473555400470374
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.656172343174519,
+                    40.47363972597299
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.653889152938081,
+                    40.47712561092061
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.654224669254687,
+                    40.47712822017343
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.652252323189295,
+                    40.47881051597647
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.652513596340037,
+                    40.47883607086327
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.648504478931587,
+                    40.48316038761046
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.648558560992789,
+                    40.48364656999879
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.62591254819779,
+                    40.47597840901095
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.626051562679812,
+                    40.47594162180085
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.625687573197626,
+                    40.481294934950135
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.626726625025459,
+                    40.48189742522964
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.622778324024516,
+                    40.48206736798469
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.627873617815384,
+                    40.48335967991134
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.623153284183469,
+                    40.48242571136745
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.632108133553159,
+                    40.485908710264724
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.628046837164722,
+                    40.48362901064994
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.636728421452843,
+                    40.48581582803732
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.632126402683037,
+                    40.48604824983794
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.637036739819122,
+                    40.48582314115546
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.623762399400917,
+                    40.49753500393872
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.623835354553664,
+                    40.49689046946543
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.637687290342233,
+                    40.469418677401656
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.673749969880137,
+                    40.46857481918669
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.673618368193205,
+                    40.46824225175706
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.675243774655513,
+                    40.4673363882394
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.675167819821506,
+                    40.46744493922168
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.66596731024146,
+                    40.467502726792546
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.63691856031678,
+                    40.467373357561726
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.63722445490535,
+                    40.4672500529808
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.639202975345182,
+                    40.46995086143017
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.641922704183394,
+                    40.46998536606227
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.64359841634434,
+                    40.470246334810184
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.640786709634085,
+                    40.46895111715577
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.639051049310856,
+                    40.468933681677775
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.666416325783355,
+                    40.46758122446295
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.653184160770722,
+                    40.46786383065079
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.653735481235504,
+                    40.467545404027994
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.651154047963149,
+                    40.47018157076528
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.651426842600631,
+                    40.47014400037659
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.677490114123832,
+                    40.46817912159191
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.676081646824174,
+                    40.470390055140115
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.676371750255526,
+                    40.46991088382623
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65138380790124,
+                    40.46709919731883
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.651512259906022,
+                    40.467346222479236
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.647682335081135,
+                    40.46796230263406
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.648016976576169,
+                    40.46818565567095
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.643322971500423,
+                    40.46911723467983
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.643393716060072,
+                    40.46942314798386
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.638602963677729,
+                    40.47019741522489
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.638821323599969,
+                    40.47013314773027
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.615681362530953,
+                    40.48208278232003
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.615940355480004,
+                    40.482464287992386
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.619883845721994,
+                    40.496808081345556
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.619892579782431,
+                    40.496875601914624
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.626869765791421,
+                    40.46936962891819
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.617647946183844,
+                    40.49415336825882
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.617097796850155,
+                    40.493836481708016
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.619857255829744,
+                    40.495159580987185
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.62014275795394,
+                    40.49440580311539
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.637723868940982,
+                    40.46954460212534
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.653501656250404,
+                    40.46711429137616
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.638775492012647,
+                    40.46914691384081
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.639650231052575,
+                    40.469961905225915
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.631085759068597,
+                    40.4688152026957
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.630960264349199,
+                    40.468640210756064
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.63435099263967,
+                    40.4695541189915
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.638962060225768,
+                    40.46950174048431
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.637320280497508,
+                    40.4688486256152
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.63437025849696,
+                    40.46854500397005
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.637966673500461,
+                    40.46867389502233
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.626830529508809,
+                    40.468955426519365
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.618254273163188,
+                    40.495569047681414
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.618064809483774,
+                    40.49549798698742
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.626114968224439,
+                    40.46847280914006
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.627056342628951,
+                    40.46925600649588
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.637726121092121,
+                    40.46931485992275
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.638865012089882,
+                    40.469335609234356
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.617372180755772,
+                    40.482803512448896
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.617854767972724,
+                    40.483080218428015
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/parada_02_rest.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6919057,
+                    40.4152082
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7041659999999994,
+                    40.423126
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6957434000000005,
+                    40.4163838
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7007163999999997,
+                    40.4144226
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6894247979427686,
+                    40.4167014469994
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_yellow.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6869293000000005,
+                    40.4225428
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_yellow.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.682204798770403,
+                    40.42201515498424
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6842317,
+                    40.4211845
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6883841104507464,
+                    40.42156087297841
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6984583,
+                    40.41806
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6933498,
+                    40.4186516
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6996776,
+                    40.4209251
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7057791,
+                    40.4173703
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7054098,
+                    40.416465
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7039032999999995,
+                    40.4190322
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7027164000000004,
+                    40.4196518
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.70239,
+                    40.42059
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7056899999999997,
+                    40.4204
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6952465,
+                    40.4188076
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6954982999999997,
+                    40.4218616
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6978583000000005,
+                    40.4222783
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6907560000000004,
+                    40.4232153
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7033305,
+                    40.4165873
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.688398,
+                    40.419752
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7036825,
+                    40.4146755
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6945,
+                    40.4239
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7061032000000003,
+                    40.4150099
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7058976,
+                    40.4173687
+                ]
+            },
+            "properties": {
+                "address": null,
+                "name": null,
+                "icon": "https://navegapormadrid.emtmadrid.es/app/images/mapSymbol/biciMAD_green.png"
+            }
+        }
+    ]
+}
